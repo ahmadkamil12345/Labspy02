@@ -14,7 +14,7 @@ kemudian masukan angka yang di inginkan
 saya masukan bilangan 1 = 4 bilangan 2 = 6 bilangan 3 = 8
 lalu masukan flowchat seperti dibawah ini :
 
-1[img](Gambar/ss2.png)
+![img](Gambar/ss2.png)
 
 setelah itu saya menggunakan syntax dibawah ini :
 
